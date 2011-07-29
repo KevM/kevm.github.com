@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://KevM.github.com/atom.xml" rel="self"/>
+  <link href="http://KevM.github.com/"/>
+  <updated>2011-07-29T11:15:56-05:00</updated>
+  <id>http://KevM.github.com/</id>
+  <author>
+    <name>Kevin Miller</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>All Apologies</title>
+    <link href="http://KevM.github.com/blog/2011/07/29/all-apologies/"/>
+    <updated>2011-07-29T11:06:00-05:00</updated>
+    <id>http://KevM.github.com/blog/2011/07/29/all-apologies</id>
+    <content type="html">
+</content>
+  </entry>
+  
+</feed>
