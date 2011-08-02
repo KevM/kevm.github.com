@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://KevM.github.com/atom.xml" rel="self"/>
+  <link href="http://KevM.github.com/"/>
+  <updated>2011-07-29T20:30:29-05:00</updated>
+  <id>http://KevM.github.com/</id>
+  <author>
+    <name>Kevin Miller</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>All Apologies</title>
+    <link href="http://KevM.github.com/blog/2011/07/29/all-apologies/"/>
+    <updated>2011-07-29T11:06:00-05:00</updated>
+    <id>http://KevM.github.com/blog/2011/07/29/all-apologies</id>
+    <content type="html">&lt;p&gt;I am deeply sorry.&lt;/p&gt;
+
+&lt;h3&gt;Why?&lt;/h3&gt;
+
+&lt;p&gt;The world does not really need another blog. But I do. I need a place to mutter about my interests. This is all about me and my needs. But I am ever thinking of you my reader. Hence the previous execution of an apology. I hope that covers it and makes you feel better.&lt;/p&gt;
+
+&lt;p&gt;This GitHub hosted blog will be a place for my professional mutterings concerning software development and general geekery.&lt;/p&gt;
+
+&lt;h3&gt;What?&lt;/h3&gt;
+
+&lt;p&gt;What kind of geekery you ask? I mostly work in the .Net space building web applications for big companies creating supportable, working, shipping software. The web apps for big companies part  is usually nothing sexy or &lt;a href=&quot;http://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt; worthy but I do my best to smooth out our user's workday.&lt;/p&gt;
+
+&lt;p&gt;During my workday I build on a budding open source web framework called FubuMVC made by my Dovetail colleagues and quickly growing community. On the side I have been playing around with what people are calling Modern Javascript and alternative data stores and a bit of Vim on a fun little a Macbook.&lt;/p&gt;
+
+&lt;p&gt;There will also very likely be random anecdotes about my new career as a part-time stay at home dad which has nothing to do with anything technical. I apologize for this as well.&lt;/p&gt;
+
+&lt;p&gt;Speaking of random anecdotes...&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://postimage.org/image/28dqn7l0/' target='_blank'&gt;&lt;img src='http://s4.postimage.org/2wbj43a3b/beyondthethornbushes.gif' border='0' alt=&quot;Big and Little Nutbrown Hare looking up at the sky&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Naming things is hard&lt;/h3&gt;
+
+&lt;p&gt;Wondering where I got the title of the blog?&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Then he looked beyond the thornbushes, out into the big dark night. Nothing could be farther than the sky.&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;Sam McBratney,&lt;/strong&gt;&lt;cite&gt;&lt;a href='http://www.amazon.com/gp/product/076360013X/ref=as_li_ss_il?ie=UTF8&amp;tag=kevimill-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=076360013X,'&gt;Guess How Much I Love You&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt;You've likely figured out it has something to do with the bit about me being a stay at home dad a.k.a. SAHD. My 9 month old boy gets a story before bed and my favorite story is the legendary tale of Big Nutbrown Hare one upping Little Nutbrown Hare in
+&lt;a href=&quot;http://www.amazon.com/gp/product/076360013X/ref=as_li_ss_il?ie=UTF8&amp;amp;tag=kevimill-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399369&amp;amp;creativeASIN=076360013X&quot; title=&quot;The board book at Amazon&quot;&gt;Guess How Much I Love You&lt;/a&gt;. He, however, does not care about the story. He just wants a meal and to sleep.&lt;/p&gt;
+
+&lt;h3&gt;Micro Book Review&lt;/h3&gt;
+
+&lt;p&gt;In a way it is a terrible story containing an adult playfully toping his child's attempts to communicate their love. Some might think it demeaning. I find it fun and playful.&lt;/p&gt;
+
+&lt;p&gt;More importantly for me it captures well the idea that the little one has no way of understanding the depth of his parent's love. Becoming a parent made me have new respect for my parents. They have always given me lots of love and encouragement but never until now have I really known how deeply lies the foundation of their love for me.&lt;/p&gt;
+
+&lt;p&gt;Well my little and wonderful monster has awoken so that is it for today. Till he naps again.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
